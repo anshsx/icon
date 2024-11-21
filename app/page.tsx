@@ -11,7 +11,7 @@ export default async function Home() {
     <div className="font-mono flex items-center justify-center sm:mt-16 mt-8">
       <div className="container">
         <h1 className="sm:text-3xl text-2xl mt-3 text-balance">
-          beautifully crafted animated icons
+          beautifully crafted animated era icons
         </h1>
         <p className="sm:text-sm text-xs leading-relaxed sm:mt-4 mt-2 text-muted-foreground max-w-lg text-pretty">
           an open-source (
