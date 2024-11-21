@@ -7,7 +7,7 @@ import { CountUpNumber } from './count-up-number';
 
 const getGithubStars = async () => {
   try {
-    const res = await fetch('https://api.github.com/repos/pqoqubbw/icons', {
+    const res = await fetch('https://api.github.com/repos/anshsx/icon', {
       headers: {
         Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
       },
